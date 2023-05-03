@@ -1,5 +1,5 @@
 # SMMNRA_Nonnative_Hexgrid_2020
-Hex grid based on non-native cover percentages derived from the Terrestrial Vegetation Inventory and Monitoring dataset from the Santa Monica Mountains National Recreation Area.
+Hex grid based on non-native cover percentages derived from the 2020 Terrestrial Vegetation Inventory and Monitoring dataset from the Santa Monica Mountains National Recreation Area.
 
 Counts: 
 Percentage of non-native cover within the cell. Percentages are calculated by averaging the relative cover of non-native species from the transect plots within the cell. 
